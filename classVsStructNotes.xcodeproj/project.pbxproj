@@ -14,6 +14,7 @@
 		1117CA702704937400057353 /* classVsStructNotes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1117CA6E2704937400057353 /* classVsStructNotes.xcdatamodeld */; };
 		1117CA722704937600057353 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1117CA712704937600057353 /* Assets.xcassets */; };
 		1117CA752704937600057353 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1117CA732704937600057353 /* LaunchScreen.storyboard */; };
+		1117CA7D270495F600057353 /* BankAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1117CA7C270495F600057353 /* BankAccount.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1117CA712704937600057353 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1117CA742704937600057353 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1117CA762704937600057353 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1117CA7C270495F600057353 /* BankAccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankAccount.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1117CA652704937400057353 /* AppDelegate.swift */,
 				1117CA672704937400057353 /* SceneDelegate.swift */,
 				1117CA692704937400057353 /* ViewController.swift */,
+				1117CA7C270495F600057353 /* BankAccount.swift */,
 				1117CA6B2704937400057353 /* Main.storyboard */,
 				1117CA712704937600057353 /* Assets.xcassets */,
 				1117CA732704937600057353 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				1117CA702704937400057353 /* classVsStructNotes.xcdatamodeld in Sources */,
 				1117CA6A2704937400057353 /* ViewController.swift in Sources */,
+				1117CA7D270495F600057353 /* BankAccount.swift in Sources */,
 				1117CA662704937400057353 /* AppDelegate.swift in Sources */,
 				1117CA682704937400057353 /* SceneDelegate.swift in Sources */,
 			);
